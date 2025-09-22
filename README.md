@@ -24,30 +24,37 @@ The dataset was created entirely from scratch using:
 ## 📊 Dashboards & Insights
 
 ### 1️⃣ Season Overview & Team Progress  
+![Season Overview Dashboard](Screenshot%202025-08-10%20192907.png)
 - **What it shows:** Match results, points progression, win/loss patterns  
 - **Insight:** MI maintained strong momentum in home games but struggled to convert close away matches into wins.  
 
 ### 2️⃣ Batting Impact & Trends  
+![Batting Impact Dashboard](Screenshot%202025-08-10%20192919.png)
 - **What it shows:** Runs, strike rates, boundaries, batting consistency  
 - **Insight:** Whenever the openers scored 40+ together, MI’s win probability jumped above 75%.  
 
 ### 3️⃣ Bowling Effectiveness  
+![Bowling Effectiveness Dashboard](Screenshot%202025-08-10%20192939.png)
 - **What it shows:** Economy rates, wicket patterns, bowling by phase  
 - **Insight:** Powerplay overs were MI’s strongest phase with the ball, keeping opponents’ run rate in check early on.  
 
 ### 4️⃣ Match Dynamics & Partnerships  
+![Match Dynamics Dashboard](Screenshot%202025-08-10%20192951.png)
 - **What it shows:** Runs per over, partnerships, turning points  
 - **Insight:** Middle-order partnerships rescued innings when early wickets fell, proving MI’s batting depth.  
 
 ### 5️⃣ Phase-Wise Performance & Momentum  
+![Phase-Wise Performance Dashboard](Screenshot%202025-08-10%20193006.png)
 - **What it shows:** Powerplay, middle overs, death overs performance  
 - **Insight:** MI consistently outperformed opponents in the last 5 overs when chasing, showcasing strong finishers.  
 
 ### 6️⃣ Individual Top Batters  
+![Top Batters Dashboard](Screenshot%202025-08-10%20193031.png)
 - **What it shows:** Runs scored, strike rates, boundary frequency  
 - **Insight:** One batter’s strike rate above 170 in death overs turned multiple games in MI’s favor.  
 
 ### 7️⃣ Individual Top Bowlers  
+![Top Bowlers Dashboard](Screenshot%202025-08-10%20193046.png)
 - **What it shows:** Wickets taken, economy rates, dot ball %  
 - **Insight:** A death-over specialist bowler delivered economy under 8 consistently, even in high-pressure games.  
 
@@ -66,10 +73,6 @@ The dataset was created entirely from scratch using:
 
 ---
 
-## 📸 Screenshots
-(Add images of your dashboards here for quick preview — recruiters love visuals!)  
-
----
 
 ## 📂 Repository Contents
 - `MI_IPL_2025_Dataset.xlsx` → The dataset I created from scratch  
