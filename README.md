@@ -24,22 +24,18 @@ The dataset was created entirely from scratch using:
 ## 📊 Dashboards & Insights
 
 ### 1️⃣ Season Overview & Team Progress  
-![Season Overview Dashboard](Screenshot of Visaulization/Screenshot 2025-08-10 192907.png)
 - **What it shows:** Match results, points progression, win/loss patterns  
 - **Insight:** MI maintained strong momentum in home games but struggled to convert close away matches into wins.  
 
 ### 2️⃣ Batting Impact & Trends  
-![Season Overview Dashboard](Screenshot of Visaulization/Screenshot 2025-08-10 192907.png)
 - **What it shows:** Runs, strike rates, boundaries, batting consistency  
 - **Insight:** Whenever the openers scored 40+ together, MI’s win probability jumped above 75%.  
 
 ### 3️⃣ Bowling Effectiveness  
-![Season Overview Dashboard](Screenshot of Visaulization/Screenshot 2025-08-10 192907.png)
 - **What it shows:** Economy rates, wicket patterns, bowling by phase  
 - **Insight:** Powerplay overs were MI’s strongest phase with the ball, keeping opponents’ run rate in check early on.  
 
 ### 4️⃣ Match Dynamics & Partnerships  
-![Season Overview Dashboard](Screenshot of Visaulization/Screenshot 2025-08-10 192907.png)
 - **What it shows:** Runs per over, partnerships, turning points  
 - **Insight:** Middle-order partnerships rescued innings when early wickets fell, proving MI’s batting depth.  
 
